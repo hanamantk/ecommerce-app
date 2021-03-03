@@ -1,0 +1,17 @@
+export const USER_LOGIN_REQUEST = "USER_LOGIN_REQUEST";
+export const USER_LOGIN_SUCCESS = "USER_LOGIN_SUCCESS";
+export const USER_LOGIN_FAIL = "USER_LOGIN_FAIL";
+export const USER_LOGOUT = "USER_LOGOUT";
+
+export const PRODUCT_REQUEST = "PRODUCT_REQUEST";
+export const PRODUCT_SUCCESS = "PRODUCT_SUCCESS";
+export const PRODUCT_FAIL = "PRODUCT_FAIL";
+
+export const ADD_TO_CART = "ADD_TO_CART";
+export const ADD_TO_CART_FAIL = "ADD_TO_CART_FAIL";
+export const VERIFY_USER_SUCCESS = "VERIFY_USER_SUCCESS";
+export const VERIFY_USER_FAIL = "VERIFY_USER_FAIL";
+
+export const INC_QTY = "INC_QTY";
+export const DEC_QTY = "DEC_QTY";
+
