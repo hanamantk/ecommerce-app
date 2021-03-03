@@ -10,6 +10,7 @@ CART
 ORDER SUMMURY
 
 ----operations---
+
 add item to cart
 Cart page where you can increase or decrese product Qty
 User authentication for login based on Json web token
