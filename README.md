@@ -20,6 +20,7 @@ Cart qty
 ----Techonology used------
     React
     Redux
+    React Hooks
     Redux thunk (optional)
     Javascript(es6)
     CSS3
