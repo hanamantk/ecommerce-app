@@ -2,6 +2,9 @@
 ========================== Simple ecommerce  application ==============
 
 This application shows list of products on page its kind of small ecommerse app
+-----Login Cred------
+email: hkj@gmail.com
+password: hkj022
 
 -----pages------
 HOME
